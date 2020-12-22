@@ -23,4 +23,5 @@ Its hex code can contain digits from 0 to 9 and alphabets from A to F (both incl
 Code|Copy|Name|Description
 :--:|:--:|:--:|:---------:
 2800|⠀|Braille Pattern Blank|Invisible character that can be used to amaze people
-FDFD|﷽|ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEE|Longest Character in Unicode
+FDFD|﷽|Arabic Ligature BIismillah Ar-Raman Ar-Rahee|Longest Character in Unicode
+2070|⁰|Subscript of 0|N/A
