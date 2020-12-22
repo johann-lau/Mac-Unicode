@@ -20,5 +20,5 @@ You can type any unicode character by holding option key and type its hex code.
 
 ### Hex Code cheatsheet
 Code|Copy|Name|Description
-----|----|----|-------
-2800|⠀|Braille Blank|Invisible character
+:--:|:--:|:--:|:---------:
+2800|⠀|Braille Pattern Blank|Invisible character that can be used to amaze people
