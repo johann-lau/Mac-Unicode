@@ -25,3 +25,7 @@ Code|Copy|Name|Description
 2800|⠀|Braille Pattern Blank|Invisible character that can be used to amaze people
 FDFD|﷽|Arabic Ligature BIismillah Ar-Raman Ar-Rahee|Longest Character in Unicode
 2070|⁰|Subscript of 0|N/A
+00b9|¹|Subscript of 1|N/A
+00b2|²|Subscript of 2|N/A
+00b3|³|Subscript of 3|N/A
+207\*|⁴⁵…⁹|Subscript of 4~9|replace asterisk with 4/5/6/7/8/9
