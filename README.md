@@ -6,6 +6,7 @@ You need to add **Unicode Hex Input** to your keyboard input source before you c
 
 1. Go to System Preferences › Keyboard › Input Source
 ![Input Sources](https://u.cubeupload.com/Johann/217Screenshot20201222at.png)
+<img src="https://u.cubeupload.com/Johann/217Screenshot20201222at.png" alt="Input Source" width="50" height="50">
 
 2. Click the plus sign at the bottom-left and scroll down to "Others"
 ![Plus](https://u.cubeupload.com/Johann/695Screenshot20201222at.png)
