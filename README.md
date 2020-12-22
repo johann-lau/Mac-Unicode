@@ -5,12 +5,12 @@
 You need to add **Unicode Hex Input** to your keyboard input source before you can start.
 
 1. Go to System Preferences › Keyboard › Input Source
-![Input Sources](https://u.cubeupload.com/Johann/217Screenshot20201222at.png)
+![Input Sources](https://u.cubeupload.com/Johann/217Screenshot20201222at.png | width=100)
 
 2. Click the plus sign at the bottom-left and scroll down to "Others"
-![Plus](https://u.cubeupload.com/Johann/695Screenshot20201222at.png)
+![Plus](https://u.cubeupload.com/Johann/695Screenshot20201222at.png | width=100)
 
 3. Choose "Unicode Hex Input" › Add
-![UHI](https://u.cubeupload.com/Johann/fe5Screenshot20201222at.png)
+![UHI](https://u.cubeupload.com/Johann/fe5Screenshot20201222at.png | width=100)
 
 Now you are all set!
