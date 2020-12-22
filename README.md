@@ -28,4 +28,6 @@ FDFD|﷽|Arabic Ligature BIismillah Ar-Raman Ar-Rahee|Longest Character in Unico
 00b9|¹|Subscript of 1|N/A
 00b2|²|Subscript of 2|N/A
 00b3|³|Subscript of 3|N/A
-207\*|⁴⁵…⁹|Subscript of 4~9|replace asterisk with 4/5/6/7/8/9
+207\*|⁴⁵⁶⁷⁸⁹|Subscript of 4~9|replace asterisk with 4/5/6/7/8/9
+2071|ⁱ|Subscript of i|N/A
+207\*|⁺⁻⁼⁽⁾ⁿ|Subscript of symbols/n|replace asterisk with a/b/c/d/e/f
