@@ -40,4 +40,4 @@ Contents|Link
 Math|https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode#Dedicated_blocks
 Arrows|https://en.wikipedia.org/wiki/Arrows_(Unicode_block)#Block
 Music|https://en.wikipedia.org/wiki/Musical_Symbols_(Unicode_block)#Block
-Emojis|https://unicode.org/emoji/charts/full-emoji-list.html
+Emojis|https://unicode.org/emoji/charts/full-emoji-list.html#smileys_&_emotion
