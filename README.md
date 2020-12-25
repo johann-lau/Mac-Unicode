@@ -23,15 +23,15 @@ Its hex code can contain digits from 0 to 9 and alphabets from A to F (both incl
 ## Hex Code cheatsheet
 Code|Copy|Name|Description
 :--:|:--:|:--:|:---------:
-2800,3164,FF60|⠀|Braille Pattern Blank|Invisible character that can be used to amaze people
+2800,3164,FFA0|⠀,ㅤ,ﾠ|Braille Pattern Blank, Hangul Filler, Halfwidth Hangul Filler|Invisible character that can be used to amaze people
 FDFD|﷽|Arabic Ligature BIismillah Ar-Raman Ar-Rahee|Longest Character in Unicode
-2070|⁰|Subscript of 0|N/A
-00b9|¹|Subscript of 1|N/A
-00b2|²|Subscript of 2|N/A
-00b3|³|Subscript of 3|N/A
+2070|⁰|Superscript of 0|N/A
+00b9|¹|Superscript of 1|N/A
+00b2|²|Superscript of 2|N/A
+00b3|³|Superscript of 3|N/A
 207\*|⁴⁵⁶⁷⁸⁹|Subscript of 4~9|replace asterisk with 4/5/6/7/8/9
-2071|ⁱ|Subscript of i|N/A
-207\*|⁺⁻⁼⁽⁾ⁿ|Subscript of symbols/n|replace asterisk with a/b/c/d/e/f
+2071|ⁱ|Superscript of i|N/A
+207\*|⁺⁻⁼⁽⁾ⁿ|Superscript of symbols/n|replace asterisk with a/b/c/d/e/f
 219\*|←↑→↓↔↕↖↗↘↙|Arrows|replace asterisk with 1/2/3/4/5/6/7/8/9
 
 
