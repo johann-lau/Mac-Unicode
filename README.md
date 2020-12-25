@@ -35,7 +35,7 @@ FDFD|﷽|Arabic Ligature BIismillah Ar-Raman Ar-Rahee|Longest Character in Unico
 219\*|←↑→↓↔↕↖↗↘↙|Arrows|replace asterisk with 1/2/3/4/5/6/7/8/9
 
 
-More complementary cheatsheets
+## More complementary cheatsheets
 Contents|Link
 :------:|:--:
 Math|https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode#Dedicated_blocks
