@@ -42,3 +42,9 @@ Math|https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
 Arrows|https://en.wikipedia.org/wiki/Arrows_(Unicode_block)#Block
 Music|https://en.wikipedia.org/wiki/Musical_Symbols_(Unicode_block)#Block
 Emojis|https://unicode.org/emoji/charts/full-emoji-list.html#smileys_&_emotion
+
+## Remove input source?
+##### If you find the Unicode Hex Input annoying, you can remove it:
+1. Go to System Preferences › Keyboard › Input Source
+2. Click "Unicode Hex Input"
+3. Click the minus sign at the bottom-left
